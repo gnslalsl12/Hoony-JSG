@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Jeong Hoon 🐻</h1>
 
-</br>
-</br>
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://instagram.com/jeong_hoooon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jeong_hoooon/" height="30" width="40" /></a>
-</p>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgnsxhsl)](https://solved.ac/wjdgnsxhsl)
+
 </br>
 </br>
 
@@ -43,3 +39,9 @@
 <br/>
 <br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoony-jsg&show_icons=true&locale=en&layout=compact" alt="hoony-jsg" /></p>
+</br>
+</br>
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://instagram.com/jeong_hoooon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jeong_hoooon/" height="30" width="40" /></a>
+</p>

@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Jeong Hoon 🐻</h1>
 
+<p align="center">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgnsxhsl)](https://solved.ac/wjdgnsxhsl)
-
+</p>
 </br>
 </br>
 
